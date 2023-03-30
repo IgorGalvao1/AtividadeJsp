@@ -10,6 +10,7 @@
 
         <ul>
             <li><a href="soma.jsp">Soma</a></li>
+            <li><a href="tabuada.jsp">Tabuada</a></li>
         </ul>
     </body>
 </html>
